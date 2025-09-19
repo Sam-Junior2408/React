@@ -1,7 +1,7 @@
 import { StyleSheet, Text, useColorScheme, View } from 'react-native'
 import React from 'react'
 import { Stack } from 'expo-router'
-import {Colors} from '../constants/colors'
+import {Colors} from '../constants/Colors'
 const RootLayout = () => {
     const colorTheme = useColorScheme()
     const theme = Colors[colorTheme] ?? Colors.light

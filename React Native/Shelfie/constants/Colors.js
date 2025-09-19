@@ -23,7 +23,7 @@ export const Colors = {
 
     light:{
         text: '#625f72',
-        title: '201e2b',
+        title: '#201e2b',
         background: '#e0dfe8',
         surface: '#ffffff', 
         navBackground: '#e8e7ef',
